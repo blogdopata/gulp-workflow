@@ -1,2 +1,8 @@
 body {
-  background-color: green; }
+  background-color: rebeccapurple; }
+
+div {
+  -webkit-box-shadow: 1px 1px 1px black;
+  box-shadow: 1px 1px 1px black;
+  -webkit-transition: .3s all ease;
+  transition: .3s all ease; }

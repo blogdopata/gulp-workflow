@@ -1,4 +1,8 @@
-$fondo-body: green;
+$fondo-body: rebeccapurple;
 body{
 	background-color: $fondo-body;
 }	
+div{
+	box-shadow:1px 1px 1px black;
+	transition: .3s all ease;
+}
